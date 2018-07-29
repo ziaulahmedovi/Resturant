@@ -1,0 +1,60 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 17, 2017, 8:41:45 PM
+    Author     : Ziaul Ahmed Ovi
+*/
+header{
+    margin: 50px 0px; 
+}
+
+
+
+.container{
+    padding: 0px;
+}
+#cus-nav{
+    border: 0px;
+    
+}
+#cus-nav .container{
+    padding: 0px 15px;
+    
+   
+}
+.col-sm-12{
+    
+    padding: 0px;
+}
+#cus-nav a{
+    
+    color: #fff;
+
+}
+#cus-nav a:hover{
+    
+    background-color: #122b40;
+
+}
+#cus-nav a:focus{
+    
+    background-color: #122b40;
+
+}
+#cus-nav button{
+    
+    border: 1px solid;
+}
+#cus-nav .icon-bar{
+ 
+    border: 1px solid;
+}
+ 
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+
+ 
+  
+}

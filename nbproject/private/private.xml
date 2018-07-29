@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/F:/xampp/htdocs/Resturant/resources/views/admin/include/leftFixedMenu.blade.php</file>
+            <file>file:/F:/xampp/htdocs/Resturant/app/Http/Controllers/HomeController.php</file>
+            <file>file:/F:/xampp/htdocs/Resturant/resources/views/admin/pages/index/viewIndexContent.blade.php</file>
+            <file>file:/F:/xampp/htdocs/Resturant/app/Http/Controllers/Auth/RegisterController.php</file>
+            <file>file:/F:/xampp/htdocs/Resturant/resources/views/frontEnd/contactUs/contactUs.blade.php</file>
+            <file>file:/F:/xampp/htdocs/Resturant/index.php</file>
+            <file>file:/F:/xampp/htdocs/Resturant/app/Http/Controllers/IndexPageManagementController.php</file>
+            <file>file:/F:/xampp/htdocs/Resturant/app/Http/Controllers/Auth/LoginController.php</file>
+            <file>file:/F:/xampp/htdocs/Resturant/routes/web.php</file>
+            <file>file:/F:/xampp/htdocs/Resturant/resources/views/admin/icons/editIcon.blade.php</file>
+            <file>file:/F:/xampp/htdocs/Resturant/resources/views/admin/master.blade.php</file>
+            <file>file:/F:/xampp/htdocs/Resturant/app/Http/Kernel.php</file>
+        </group>
+    </open-files>
+</project-private>
